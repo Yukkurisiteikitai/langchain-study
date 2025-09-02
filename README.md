@@ -1,0 +1,2 @@
+# langchain-study
+LangChainが導入されてからしばらく経ったのでやっていく回
